@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: GPT4All-REST
+gpt4all:
+  base-url: http://localhost
+  port: 4891
+  model-name: Nous Hermes 2 Mistral DPO

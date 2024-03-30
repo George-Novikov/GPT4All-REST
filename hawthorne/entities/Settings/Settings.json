@@ -1,0 +1,1 @@
+{"baseUrl":"http://localhost","port":4891,"modelName":"Mistral Instruct","bestOf":1,"frequencyPenalty":0,"logitBias":null,"logProbs":0,"maxTokens":250,"n":1,"presencePenalty":0,"seed":"66245","stop":"\n___\n","suffix":null,"temperature":0.5,"topP":1,"user":"system","echo":false,"stream":false}
